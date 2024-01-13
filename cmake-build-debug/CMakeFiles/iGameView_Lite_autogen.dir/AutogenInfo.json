@@ -1,0 +1,372 @@
+{
+	"BUILD_DIR" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/iGameView_Lite_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/lizhenghao/iGameMeshView_Lite",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/lizhenghao/iGameMeshView_Lite/CMakeLists.txt",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindGLUT.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPkgConfig.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindOpenGL.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/cmake/Qt5Charts/Qt5ChartsConfig.cmake",
+		"/Users/lizhenghao/iGameMeshView_Lite/Turbine_Blade.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/lizhenghao/iGameMeshView_Lite",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Cell.h",
+			"MU",
+			"32RP4FTY4B/moc_Cell.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Edge.h",
+			"MU",
+			"32RP4FTY4B/moc_Edge.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Face.h",
+			"MU",
+			"32RP4FTY4B/moc_Face.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Handle.h",
+			"MU",
+			"32RP4FTY4B/moc_Handle.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/IO.h",
+			"MU",
+			"32RP4FTY4B/moc_IO.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Kernel.h",
+			"MU",
+			"32RP4FTY4B/moc_Kernel.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Mesh.h",
+			"MU",
+			"32RP4FTY4B/moc_Mesh.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Vertex.h",
+			"MU",
+			"32RP4FTY4B/moc_Vertex.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/ModelDraw.h",
+			"MU",
+			"EWIEGA46WW/moc_ModelDraw.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Surface_Algorithm/Surface_Fairing/Fairing.h",
+			"MU",
+			"YHEACZNQ46/moc_Fairing.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Surface_Algorithm/Surface_Para/Para.h",
+			"MU",
+			"DSLECESKHC/moc_Para.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/HexQuality.h",
+			"MU",
+			"WKHKOO7AB7/moc_HexQuality.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/MeshMath.h",
+			"MU",
+			"WKHKOO7AB7/moc_MeshMath.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/MetricsStruct.h",
+			"MU",
+			"WKHKOO7AB7/moc_MetricsStruct.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/QuadQuality.h",
+			"MU",
+			"WKHKOO7AB7/moc_QuadQuality.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/TetQuality.h",
+			"MU",
+			"WKHKOO7AB7/moc_TetQuality.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/TriQuality.h",
+			"MU",
+			"WKHKOO7AB7/moc_TriQuality.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/UI/MetricChart.h",
+			"MU",
+			"KRKR4BN5RM/moc_MetricChart.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/UI/ModelListView.h",
+			"MU",
+			"KRKR4BN5RM/moc_ModelListView.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/UI/PrintInfo.h",
+			"MU",
+			"KRKR4BN5RM/moc_PrintInfo.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/ViewOpenGL.h",
+			"MU",
+			"EWIEGA46WW/moc_ViewOpenGL.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/extern/include/DSU.h",
+			"MU",
+			"NMVWNRZXDS/moc_DSU.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/extern/include/stl_parser.h",
+			"MU",
+			"NMVWNRZXDS/moc_stl_parser.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/extern/include/stl_write.hpp",
+			"MU",
+			"NMVWNRZXDS/moc_stl_write.cpp",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/iGameMeshView.h",
+			"MU",
+			"EWIEGA46WW/moc_iGameMeshView.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/iGameView_Lite_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/iGameView_Lite_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"IS64BITPLATFORM",
+		"QT_CHARTS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"_HAS_STD_BYTE=0",
+		"_USE_MATH_DEFINES"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug",
+		"/Users/lizhenghao/iGameMeshView_Lite",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks/GLUT.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks/OpenGL.framework",
+		"/Users/lizhenghao/iGameMeshView_Lite/extern",
+		"/Users/lizhenghao/iGameMeshView_Lite/extern/LibMeshFix/include/TMesh",
+		"/Users/lizhenghao/iGameMeshView_Lite/extern/LibMeshFix/include/Kernel",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtCore.framework/Headers",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/mkspecs/macx-clang",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtOpenGL.framework",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtOpenGL.framework/Headers",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtCharts.framework",
+		"/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/lib/QtCharts.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/iGameView_Lite_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/qrc_Turbine_Blade.cpp",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/ui_Turbine_Blade.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/iGameView_Lite_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/lizhenghao/Qt5.14.2/5.14.2/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/iGameView_Lite_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/MeshKernel/Mesh.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/ModelDraw.cpp", "MU", null ],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/HexQuality.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/QuadQuality.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/Tools/TriQuality.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/UI/MetricChart.cpp", "MU", null ],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/UI/ModelListView.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/UI/PrintInfo.cpp", "MU", null ],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/ViewOpenGL.cpp", "MU", null ],
+		[
+			"/Users/lizhenghao/iGameMeshView_Lite/extern/include/DSU.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/iGameMeshView.cpp", "MU", null ],
+		[ "/Users/lizhenghao/iGameMeshView_Lite/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/Users/lizhenghao/iGameMeshView_Lite/Turbine_Blade.ui",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/qrc_Turbine_Blade.cpp",
+		"/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/ui_Turbine_Blade.h"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

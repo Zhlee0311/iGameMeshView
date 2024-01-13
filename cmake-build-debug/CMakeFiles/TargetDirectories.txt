@@ -1,0 +1,4 @@
+/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/iGameView_Lite.dir
+/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lizhenghao/iGameMeshView_Lite/cmake-build-debug/CMakeFiles/iGameView_Lite_autogen.dir
