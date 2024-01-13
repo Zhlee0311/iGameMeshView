@@ -166,7 +166,7 @@ private:
         }
     }
 
-    //待处理网格的指针
+    //待处理网格数据的指针
     SurfaceMesh *model;
 };
 
